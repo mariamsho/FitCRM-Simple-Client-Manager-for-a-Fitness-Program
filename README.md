@@ -35,3 +35,5 @@ HTML5
 CSS3
 
 CSS Flexbox and Grid (for layout and responsiveness)
+
+Deployed through Github pages
